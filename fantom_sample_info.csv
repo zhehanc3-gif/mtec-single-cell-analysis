@@ -1,0 +1,323 @@
+"","sample","tissue","other","sampleGood","sizeFactor"
+"sample001","counts.Atoh1%2b%20Inner%20ear%20hair%20cells%20-%20organ%20of%20corti%2c%20pool1.CNhs12533.12158-128G7","Atoh1+ Inner ear hair cells - organ of corti","pool1.CNhs12533.12158-128G7","sample001",1.52375197228313
+"sample004","counts.CD326%2b%20enterocyte%2c%20pool1.CNhs13542.11848-124I3","CD326+ enterocyte","pool1.CNhs13542.11848-124I3","sample004",0.85864983777926
+"sample005","counts.CD326%2b%20enterocyte%2c%20pool2.CNhs13197.11849-124I4","CD326+ enterocyte","pool2.CNhs13197.11849-124I4","sample005",0.526754470201036
+"sample008","counts.CD4%2bCD25%2b%20regulatory%20T%20cells%2c%20pool2%20%28Balb_cAJcl%29.CNhs13221.11818-124E9","CD4+CD25+ regulatory T cells","pool2 (Balb_cAJcl).CNhs13221.11818-124E9","sample008",1.8784203466729
+"sample009","counts.CD4%2bCD25-CD44-%20naive%20conventional%20T%20cells%2c%20PMA%20and%20ionomycin%20stimulation%2c%2002hr%2c%20pool1%20%28C57BL_6J%29.CNhs13219.11816-124E7","CD4+CD25-CD44- naive conventional T cells","pool1 (C57BL_6J).CNhs13219.11816-124E7","sample009",1.64665612055585
+"sample010","counts.CD4%2bCD25-CD44-%20naive%20conventional%20T%20cells%2c%20PMA%20and%20ionomycin%20stimulation%2c%2002hr%2c%20pool2%20%28Balb_cAJcl%29.CNhs13226.11820-124F2","CD4+CD25-CD44- naive conventional T cells","pool2 (Balb_cAJcl).CNhs13226.11820-124F2","sample010",0.989330755104416
+"sample011","counts.CD4%2bCD25-CD44-%20naive%20conventional%20T%20cells%2c%20antiCD3_CD28%20stimulation%2c%2006hr%2c%20pool1%20%28C57BL_6J%29.CNhs13218.11815-124E6","CD4+CD25-CD44- naive conventional T cells","pool1 (C57BL_6J).CNhs13218.11815-124E6","sample011",1.23239963176326
+"sample012","counts.CD4%2bCD25-CD44-%20naive%20conventional%20T%20cells%2c%20antiCD3_CD28%20stimulation%2c%2006hr%2c%20pool2%20%28Balb_cAJcl%29.CNhs13225.11819-124F1","CD4+CD25-CD44- naive conventional T cells","pool2 (Balb_cAJcl).CNhs13225.11819-124F1","sample012",2.63365046525123
+"sample013","counts.CD4%2bCD25-CD44-%20naive%20conventional%20T%20cells%2c%20pool1%20%28C57BL_6J%29.CNhs13217.11813-124E4","CD4+CD25-CD44- naive conventional T cells","pool1 (C57BL_6J).CNhs13217.11813-124E4","sample013",1.43307008027389
+"sample014","counts.CD4%2bCD25-CD44-%20naive%20conventional%20T%20cells%2c%20pool2%20%28Balb_cAJcl%29.CNhs13220.11817-124E8","CD4+CD25-CD44- naive conventional T cells","pool2 (Balb_cAJcl).CNhs13220.11817-124E8","sample014",2.77669595844146
+"sample015","counts.CD41%2b%20megakaryocyte%20control%2c%20donor1.CNhs13212.11775-124A2","CD41+ megakaryocyte control","donor1.CNhs13212.11775-124A2","sample015",1.53860402520841
+"sample016","counts.CD41%2b%20megakaryocyte%20control%2c%20donor2.CNhs13214.11777-124A4","CD41+ megakaryocyte control","donor2.CNhs13214.11777-124A4","sample016",1.78418192384206
+"sample017","counts.CD41%2b%20megakaryocyte%20control%2c%20donor3.CNhs13201.11779-124A6","CD41+ megakaryocyte control","donor3.CNhs13201.11779-124A6","sample017",0.563199267078317
+"sample018","counts.Follicle%20Associated%20Epithelium%2c%20pool2.CNhs13211.10262-104D1","Follicle Associated Epithelium","pool2.CNhs13211.10262-104D1","sample018",1.44030332214656
+"sample019","counts.Follicle%20Associated%20Epithelium%2c%20pool3.CNhs13200.10263-104D2","Follicle Associated Epithelium","pool3.CNhs13200.10263-104D2","sample019",1.00626412669315
+"sample020","counts.GP2%2b%20M%20cell%2c%20pool1.CNhs13228.11845-124H9","GP2+ M cell","pool1.CNhs13228.11845-124H9","sample020",0.418141211239768
+"sample021","counts.GP2%2b%20M%20cell%2c%20pool2.CNhs13231.11846-124I1","GP2+ M cell","pool2.CNhs13231.11846-124I1","sample021",0.548268732784765
+"sample022","counts.GP2%2b%20M%20cell%2c%20pool3.CNhs13240.11847-124I2","GP2+ M cell","pool3.CNhs13240.11847-124I2","sample022",1.08770435989607
+"sample023","counts.Ileum%20epithelium%2c%20pool1.CNhs13199.10252-104B9","Ileum epithelium","pool1.CNhs13199.10252-104B9","sample023",1.21945260910524
+"sample024","counts.Ileum%20epithelium%2c%20pool2.CNhs13232.10253-104C1","Ileum epithelium","pool2.CNhs13232.10253-104C1","sample024",0.945652984963017
+"sample025","counts.Ileum%20epithelium%2c%20treated%20with%20RANKL%2c%20day03%2c%20pool3.CNhs13234.10260-104C8","Ileum epithelium","pool3.CNhs13234.10260-104C8","sample025",1.0125845860041
+"sample026","counts.Lgr5%20positive%20intestinal%20stem%20cells%2c%20pool1.CNhs12555.12228-129F5","Lgr5 positive intestinal stem cells","pool1.CNhs12555.12228-129F5","sample026",0.767086467701663
+"sample027","counts.Lgr5%20positive%20intestinal%20stem%20cells%2c%20pool2.CNhs12556.12229-129F6","Lgr5 positive intestinal stem cells","pool2.CNhs12556.12229-129F6","sample027",1.27314268565931
+"sample028","counts.Lgr5%20positive%20intestinal%20stem%20cells%2c%20pool3.CNhs12557.12230-129F7","Lgr5 positive intestinal stem cells","pool3.CNhs12557.12230-129F7","sample028",1.06539973475177
+"sample029","counts.MC1%2bGr1%2b%20myeloid-derived%20suppressor%20cells%20control%2c%20donor1%20%284%2c5%2c6PBS%29.CNhs12540.12160-128G9","MC1+Gr1+ myeloid-derived suppressor cells control","donor1 (4,5,6PBS).CNhs12540.12160-128G9","sample029",0.440115626523884
+"sample030","counts.MC1%2bGr1%2b%20myeloid-derived%20suppressor%20cells%20control%2c%20donor2%20%280127%20PBS%29.CNhs12541.12162-128H2","MC1+Gr1+ myeloid-derived suppressor cells control","donor2 (0127 PBS).CNhs12541.12162-128H2","sample030",0.3760781069275
+"sample031","counts.MC1%2bGr1%2b%20myeloid-derived%20suppressor%20cells%20control%2c%20donor3%20%280128%20PBS%29.CNhs12543.12164-128H4","MC1+Gr1+ myeloid-derived suppressor cells control","donor3 (0128 PBS).CNhs12543.12164-128H4","sample031",0.531650318568853
+"sample034","counts.Mouse%20Aortic%20Smooth%20Muscle%20cells%2c%20donor1.CNhs11297.11299-117B3","Mouse Aortic Smooth Muscle cells","donor1.CNhs11297.11299-117B3","sample034",1.27554599184555
+"sample035","counts.Mouse%20Astrocytes%20-%20cerebellar%2c%20donor1.CNhs13077.11708-123B7","Mouse Astrocytes - cerebellar","donor1.CNhs13077.11708-123B7","sample035",0.270012405319341
+"sample036","counts.Mouse%20Astrocytes%20-%20cerebellar%2c%20donor2.CNhs12076.11550-120C2","Mouse Astrocytes - cerebellar","donor2.CNhs12076.11550-120C2","sample036",0.965712451347788
+"sample037","counts.Mouse%20Astrocytes%20-%20hippocampus%2c%20donor1.CNhs12129.11709-123B8","Mouse Astrocytes - hippocampus","donor1.CNhs12129.11709-123B8","sample037",0.989497349761998
+"sample038","counts.Mouse%20Astrocytes%20-%20hippocampus%2c%20donor2.CNhs12077.11551-120C3","Mouse Astrocytes - hippocampus","donor2.CNhs12077.11551-120C3","sample038",1.17242901760971
+"sample041","counts.Mouse%20CD19%2b%20B%20Cells%2c%20donor1.CNhs13531.11856-125A2","Mouse CD19+ B Cells","donor1.CNhs13531.11856-125A2","sample041",1.45071558451558
+"sample042","counts.Mouse%20CD4%2b%20T%20Cells%2c%20donor1.CNhs13509.11854-124I9","Mouse CD4+ T Cells","donor1.CNhs13509.11854-124I9","sample042",0.337024127391327
+"sample043","counts.Mouse%20CD8%2b%20T%20Cells%2c%20donor1.CNhs13511.11855-125A1","Mouse CD8+ T Cells","donor1.CNhs13511.11855-125A1","sample043",0.715608481104936
+"sample044","counts.Mouse%20Cardiac%20Myocytes%2c%20donor1.CNhs12355.11711-123C1","Mouse Cardiac Myocytes","donor1.CNhs12355.11711-123C1","sample044",0.875421497369863
+"sample045","counts.Mouse%20Cardiac%20Myocytes%2c%20donor2.CNhs12356.11729-123E1","Mouse Cardiac Myocytes","donor2.CNhs12356.11729-123E1","sample045",0.807894316000083
+"sample046","counts.Mouse%20Cardiac%20Myocytes%2c%20donor3.CNhs12353.11634-122C5","Mouse Cardiac Myocytes","donor3.CNhs12353.11634-122C5","sample046",0.45388820967761
+"sample047","counts.Mouse%20Granule%20cells%2c%20donor1.CNhs12131.11713-123C3","Mouse Granule cells","donor1.CNhs12131.11713-123C3","sample047",1.15962476779969
+"sample048","counts.Mouse%20Granule%20cells%2c%20donor2.CNhs12357.11731-123E3","Mouse Granule cells","donor2.CNhs12357.11731-123E3","sample048",0.432453455273436
+"sample049","counts.Mouse%20Granule%20cells%2c%20donor3.CNhs12108.11636-122C7","Mouse Granule cells","donor3.CNhs12108.11636-122C7","sample049",0.360815664522835
+"sample050","counts.Mouse%20Meningeal%20cells%2c%20donor1.CNhs12132.11716-123C6","Mouse Meningeal cells","donor1.CNhs12132.11716-123C6","sample050",0.601528562448341
+"sample051","counts.Mouse%20Meningeal%20cells%2c%20donor3.CNhs12109.11639-122D1","Mouse Meningeal cells","donor3.CNhs12109.11639-122D1","sample051",0.231401595257735
+"sample052","counts.Mouse%20Mesenchymal%20stem%20cells%20-%20bone%20marrow%20derived%2c%20donor1.CNhs12628.11717-123C7","Mouse Mesenchymal stem cells - bone marrow derived","donor1.CNhs12628.11717-123C7","sample052",0.46850047581468
+"sample053","counts.Mouse%20Mesenchymal%20stem%20cells%20-%20bone%20marrow%20derived%2c%20donor2.CNhs12633.11735-123E7","Mouse Mesenchymal stem cells - bone marrow derived","donor2.CNhs12633.11735-123E7","sample053",0.207045366681774
+"sample054","counts.Mouse%20Mesenchymal%20stem%20cells%20-%20bone%20marrow%20derived%2c%20donor3.CNhs12616.11640-122D2","Mouse Mesenchymal stem cells - bone marrow derived","donor3.CNhs12616.11640-122D2","sample054",0.287932509851649
+"sample055","counts.Mouse%20Microglia%2c%20donor1.CNhs12629.11718-123C8","Mouse Microglia","donor1.CNhs12629.11718-123C8","sample055",0.687937086323722
+"sample056","counts.Mouse%20Microglia%2c%20donor2.CNhs12634.11736-123E8","Mouse Microglia","donor2.CNhs12634.11736-123E8","sample056",0.535041483475794
+"sample057","counts.Mouse%20Neurons%20-%20cortical%2c%20donor1.CNhs12025.11724-123D5","Mouse Neurons - cortical","donor1.CNhs12025.11724-123D5","sample057",2.2596878581451
+"sample058","counts.Mouse%20Neurons%20-%20cortical%2c%20donor2.CNhs11947.11742-123F5","Mouse Neurons - cortical","donor2.CNhs11947.11742-123F5","sample058",1.69263517741752
+"sample059","counts.Mouse%20Neurons%20-%20cortical%2c%20donor3.CNhs12112.11647-122D9","Mouse Neurons - cortical","donor3.CNhs12112.11647-122D9","sample059",1.08851330651897
+"sample060","counts.Mouse%20Neurons%20-%20dorsal%20spinal%20cord%2c%20donor2.CNhs12635.11738-123F1","Mouse Neurons - dorsal spinal cord","donor2.CNhs12635.11738-123F1","sample060",0.803216777707557
+"sample061","counts.Mouse%20Neurons%20-%20dorsal%20spinal%20cord%2c%20donor3.CNhs12618.11643-122D5","Mouse Neurons - dorsal spinal cord","donor3.CNhs12618.11643-122D5","sample061",1.04968798580676
+"sample062","counts.Mouse%20Neurons%20-%20hippocampal%2c%20donor1.CNhs12133.11721-123D2","Mouse Neurons - hippocampal","donor1.CNhs12133.11721-123D2","sample062",1.87101440461658
+"sample063","counts.Mouse%20Neurons%20-%20hippocampal%2c%20donor2.CNhs12359.11739-123F2","Mouse Neurons - hippocampal","donor2.CNhs12359.11739-123F2","sample063",2.37955198696242
+"sample064","counts.Mouse%20Neurons%20-%20hippocampal%2c%20donor3.CNhs12110.11644-122D6","Mouse Neurons - hippocampal","donor3.CNhs12110.11644-122D6","sample064",0.246146289874742
+"sample065","counts.Mouse%20Neurons%20-%20raphe%2c%20donor1.CNhs12631.11722-123D3","Mouse Neurons - raphe","donor1.CNhs12631.11722-123D3","sample065",0.214198541405245
+"sample066","counts.Mouse%20Neurons%20-%20raphe%2c%20donor2.CNhs12636.11740-123F3","Mouse Neurons - raphe","donor2.CNhs12636.11740-123F3","sample066",1.93698688430493
+"sample067","counts.Mouse%20Neurons%20-%20raphe%2c%20donor3.CNhs12619.11645-122D7","Mouse Neurons - raphe","donor3.CNhs12619.11645-122D7","sample067",1.62105562691965
+"sample068","counts.Mouse%20Neurons%20-%20striatal%2c%20donor1.CNhs12134.11723-123D4","Mouse Neurons - striatal","donor1.CNhs12134.11723-123D4","sample068",1.77139066716786
+"sample069","counts.Mouse%20Neurons%20-%20striatal%2c%20donor2.CNhs12360.11741-123F4","Mouse Neurons - striatal","donor2.CNhs12360.11741-123F4","sample069",2.59177990498383
+"sample070","counts.Mouse%20Neurons%20-%20striatal%2c%20donor3.CNhs12111.11646-122D8","Mouse Neurons - striatal","donor3.CNhs12111.11646-122D8","sample070",0.450608849818019
+"sample071","counts.Mouse%20Neurons%20-%20substantia%20nigra%2c%20donor4%2c%20tech_rep1.CNhs12612.11489-119E4","Mouse Neurons - substantia nigra","tech_rep1.CNhs12612.11489-119E4","sample071",0.858543978571557
+"sample072","counts.Mouse%20Neurons%20-%20substantia%20nigra%2c%20donor5.CNhs12614.11490-119E5","Mouse Neurons - substantia nigra","donor5.CNhs12614.11490-119E5","sample072",0.428755188687644
+"sample073","counts.Mouse%20Neurons%20-%20substantia%20nigra%2c%20donor6.CNhs12643.11770-123I6","Mouse Neurons - substantia nigra","donor6.CNhs12643.11770-123I6","sample073",1.61999011249324
+"sample074","counts.Mouse%20Neurons%20-%20ventral%20spinal%20cord%2c%20donor1.CNhs12632.11725-123D6","Mouse Neurons - ventral spinal cord","donor1.CNhs12632.11725-123D6","sample074",0.805767038333115
+"sample075","counts.Mouse%20Neurons%20-%20ventral%20spinal%20cord%2c%20donor2.CNhs12638.11743-123F6","Mouse Neurons - ventral spinal cord","donor2.CNhs12638.11743-123F6","sample075",1.70770680620189
+"sample076","counts.Mouse%20Neurons%20-%20ventral%20spinal%20cord%2c%20donor3.CNhs12113.11648-122E1","Mouse Neurons - ventral spinal cord","donor3.CNhs12113.11648-122E1","sample076",1.29129794666469
+"sample077","counts.Mouse%20Schwann%2c%20donor1.CNhs12507.11728-123D9","Mouse Schwann","donor1.CNhs12507.11728-123D9","sample077",3.00276754013733
+"sample078","counts.Mouse%20Schwann%2c%20donor2.CNhs12573.11746-123F9","Mouse Schwann","donor2.CNhs12573.11746-123F9","sample078",3.07918754275609
+"sample079","counts.Mouse%20hepatic%20Sinusoidal%20Endothelial%20Cells%2c%20donor1.CNhs13209.11830-124G3","Mouse hepatic Sinusoidal Endothelial Cells","donor1.CNhs13209.11830-124G3","sample079",0.902357024835253
+"sample080","counts.Mouse%20hepatic%20Stellate%20Cells%20%28lipocyte%29%2c%20donor1.CNhs13196.11825-124F7","Mouse hepatic Stellate Cells (lipocyte)","donor1.CNhs13196.11825-124F7","sample080",0.273099481399172
+"sample081","counts.Mouse%20hepatocyte%2c%20donor1.CNhs13078.11714-123C4","Mouse hepatocyte","donor1.CNhs13078.11714-123C4","sample081",0.319501720238173
+"sample082","counts.Mouse%20hepatocyte%2c%20donor3.CNhs12615.11637-122C8","Mouse hepatocyte","donor3.CNhs12615.11637-122C8","sample082",0.418445233051769
+"sample083","counts.Mouse%20hepatocyte%2c%20donor6.CNhs13090.11822-124F4","Mouse hepatocyte","donor6.CNhs13090.11822-124F4","sample083",0.360729047143115
+"sample084","counts.Mouse%20hepatocyte%2c%20donor8.CNhs13091.11824-124F6","Mouse hepatocyte","donor8.CNhs13091.11824-124F6","sample084",0.522406977782238
+"sample085","counts.ST2%20%28Mesenchymal%20stem%20cells%29%20cells%2c%20medium%20change%20%28without%20induction%29%2c%2000hr%2c%20biol_rep1%20%28000hC4%29.CNhs11939.12338-130I7","ST2 (Mesenchymal stem cells) cells","biol_rep1 (000hC4).CNhs11939.12338-130I7","sample085",1.33842273881827
+"sample086","counts.ST2%20%28Mesenchymal%20stem%20cells%29%20cells%2c%20medium%20change%20%28without%20induction%29%2c%2000hr%2c%20biol_rep2%20%28000hC5%29.CNhs13275.12460-132E3","ST2 (Mesenchymal stem cells) cells","biol_rep2 (000hC5).CNhs13275.12460-132E3","sample086",0.836902992023313
+"sample087","counts.ST2%20%28Mesenchymal%20stem%20cells%29%20cells%2c%20medium%20change%20%28without%20induction%29%2c%2000hr%2c%20biol_rep3%20%28000hC6%29.CNhs13324.12582-133I8","ST2 (Mesenchymal stem cells) cells","biol_rep3 (000hC6).CNhs13324.12582-133I8","sample087",0.607640134812615
+"sample088","counts.Sox2%2b%20Supporting%20cells%20-%20organ%20of%20corti%2c%20pool1.CNhs12532.12157-128G6","Sox2+ Supporting cells - organ of corti","pool1.CNhs12532.12157-128G6","sample088",1.72225108789542
+"sample089","counts.TSt-4%2fDLL1%20feeder%20cells%2c%20biol_rep1.CNhs13407.12971-138H1","TSt-4/DLL1 feeder cells","biol_rep1.CNhs13407.12971-138H1","sample089",0.187112738434736
+"sample090","counts.TSt-4%2fDLL1%20feeder%20cells%2c%20biol_rep2.CNhs13408.12987-138I8","TSt-4/DLL1 feeder cells","biol_rep2.CNhs13408.12987-138I8","sample090",0.0975531667916147
+"sample091","counts.TSt-4%2fDLL1%20feeder%20cells%2c%20biol_rep3.CNhs13409.13003-139B6","TSt-4/DLL1 feeder cells","biol_rep3.CNhs13409.13003-139B6","sample091",0.0345110298068155
+"sample092","counts.Tracheal%20epithelial%20cells%2c%20differentiation%20to%20ciliated%20epithelial%20cells%2c%20000hr%2c%20biol_rep1.CNhs13739.13367-143G1","Tracheal epithelial cells","biol_rep1.CNhs13739.13367-143G1","sample092",0.993433147124913
+"sample093","counts.Tracheal%20epithelial%20cells%2c%20differentiation%20to%20ciliated%20epithelial%20cells%2c%20000hr%2c%20biol_rep2.CNhs13740.13368-143G2","Tracheal epithelial cells","biol_rep2.CNhs13740.13368-143G2","sample093",0.842466185529056
+"sample094","counts.Tracheal%20epithelial%20cells%2c%20differentiation%20to%20ciliated%20epithelial%20cells%2c%20000hr%2c%20biol_rep3.CNhs13741.13369-143G3","Tracheal epithelial cells","biol_rep3.CNhs13741.13369-143G3","sample094",0.42241668257504
+"sample095","counts.accessory%20axillary%20lymph%20node%2c%20adult.CNhs10475.1063-29H9","accessory axillary lymph node","adult.CNhs10475.1063-29H9","sample095",1.00923596733175
+"sample096","counts.adrenal%20gland%2c%20adult.CNhs10508.49-24D7","adrenal gland","adult.CNhs10508.49-24D7","sample096",1.66338247279107
+"sample097","counts.adrenal%20gland%2c%20embryo%20E14.CNhs11038.406-44C5","adrenal gland","embryo E14.CNhs11038.406-44C5","sample097",1.29689262931707
+"sample098","counts.adrenal%20gland%2c%20embryo%20E16.CNhs11004.1254-43D6","adrenal gland","embryo E16.CNhs11004.1254-43D6","sample098",0.736999264658871
+"sample099","counts.adrenal%20gland%2c%20embryo%20E17.CNhs11043.1263-45I1","adrenal gland","embryo E17.CNhs11043.1263-45I1","sample099",0.990497060296186
+"sample100","counts.adrenal%20gland%2c%20embryo%20E18.CNhs11026.1262-18F5","adrenal gland","embryo E18.CNhs11026.1262-18F5","sample100",1.54427784297061
+"sample101","counts.adrenal%20gland%2c%20neonate%20N00.CNhs11191.1311-23C1","adrenal gland","neonate N00.CNhs11191.1311-23C1","sample101",2.10048946654929
+"sample102","counts.adrenal%20gland%2c%20neonate%20N25.CNhs11223.1377-27I3","adrenal gland","neonate N25.CNhs11223.1377-27I3","sample102",1.89901055140812
+"sample103","counts.amnion%2c%20adult%20pregnant%20day17%2e5.CNhs10488.583-22A8","amnion","adult pregnant day17.5.CNhs10488.583-22A8","sample103",1.02329065264556
+"sample104","counts.aorta%2c%20adult.CNhs10498.46-23H1","aorta","adult.CNhs10498.46-23H1","sample104",1.72598779569961
+"sample105","counts.bone%20%28os%20femoris%29%2c%20adult.CNhs10483.56-12G2","bone (os femoris)","adult.CNhs10483.56-12G2","sample105",0.265570643273018
+"sample106","counts.bone%20%28os%20femoris%29%2c%20neonate%20N02.CNhs11227.1985-43F5","bone (os femoris)","neonate N02.CNhs11227.1985-43F5","sample106",1.47473482527444
+"sample107","counts.bone%20%28os%20femoris%29%2c%20neonate%20N16.CNhs11225.1525-43A6","bone (os femoris)","neonate N16.CNhs11225.1525-43A6","sample107",1.07743270649647
+"sample108","counts.bone%20%28os%20femoris%29%2c%20neonate%20N20.CNhs11195.1350-25C3","bone (os femoris)","neonate N20.CNhs11195.1350-25C3","sample108",0.483618779863547
+"sample109","counts.cecum%2c%20adult.CNhs10467.37-13H4","cecum","adult.CNhs10467.37-13H4","sample109",0.126821182969324
+"sample110","counts.cerebellum%2c%20adult.CNhs10494.15-8B2","cerebellum","adult.CNhs10494.15-8B2","sample110",0.88930624464998
+"sample111","counts.cerebellum%2c%20neonate%20N30.CNhs11135.1395-42I2","cerebellum","neonate N30.CNhs11135.1395-42I2","sample111",1.26105925809336
+"sample112","counts.colon%2c%20adult.CNhs10468.36-18H7","colon","adult.CNhs10468.36-18H7","sample112",0.93910115892818
+"sample113","counts.common%20myeloid%20progenitor%20CMP%2c%20biol_rep1.CNhs12550.12122-128C7","common myeloid progenitor CMP","biol_rep1.CNhs12550.12122-128C7","sample113",1.9061440999083
+"sample114","counts.common%20myeloid%20progenitor%20CMP%2c%20biol_rep2.CNhs12203.12125-128D1","common myeloid progenitor CMP","biol_rep2.CNhs12203.12125-128D1","sample114",0.357027580559341
+"sample115","counts.common%20myeloid%20progenitor%20CMP%2c%20biol_rep3.CNhs12551.12128-128D4","common myeloid progenitor CMP","biol_rep3.CNhs12551.12128-128D4","sample115",1.76180886563292
+"sample116","counts.corpora%20quadrigemina%2c%20adult.CNhs10501.16-22A4","corpora quadrigemina","adult.CNhs10501.16-22A4","sample116",1.66678630150662
+"sample117","counts.corpus%20striatum%2c%20adult.CNhs10487.19-21D8","corpus striatum","adult.CNhs10487.19-21D8","sample117",0.549764583979349
+"sample118","counts.corpus%20striatum%2c%20neonate%20N00.CNhs11226.630-43F1","corpus striatum","neonate N00.CNhs11226.630-43F1","sample118",1.99792437997925
+"sample119","counts.cortex%2c%20adult.CNhs10473.12-14D5","cortex","adult.CNhs10473.12-14D5","sample119",1.44838408889941
+"sample120","counts.cortex%2c%20neonate%20N30.CNhs11107.1392-42F2","cortex","neonate N30.CNhs11107.1392-42F2","sample120",0.99615949664306
+"sample121","counts.diencephalon%2c%20adult.CNhs10482.20-12F2","diencephalon","adult.CNhs10482.20-12F2","sample121",1.19078456514932
+"sample122","counts.diencephalon%2c%20neonate%20N30.CNhs11201.1388-42B2","diencephalon","neonate N30.CNhs11201.1388-42B2","sample122",1.55236952691811
+"sample123","counts.epididymis%20and%20seminiferous%20tubule%2c%20neonate%20N00.CNhs11218.1310-23B1","epididymis and seminiferous tubule","neonate N00.CNhs11218.1310-23B1","sample123",2.40214475649205
+"sample124","counts.epididymis%20and%20seminiferous%20tubule%2c%20neonate%20N30.CNhs11199.1387-42A2","epididymis and seminiferous tubule","neonate N30.CNhs11199.1387-42A2","sample124",1.95463966857923
+"sample125","counts.epididymis%2c%20adult.CNhs10490.58-23B2","epididymis","adult.CNhs10490.58-23B2","sample125",0.953181560799207
+"sample126","counts.eyeball%2c%20adult.CNhs10484.31-12G4","eyeball","adult.CNhs10484.31-12G4","sample126",1.1931242106692
+"sample127","counts.eyeball%2c%20embryo%20E12.CNhs11016.345-16C6","eyeball","embryo E12.CNhs11016.345-16C6","sample127",1.77478786448588
+"sample128","counts.eyeball%2c%20embryo%20E14.CNhs10521.399-16E2","eyeball","embryo E14.CNhs10521.399-16E2","sample128",0.999228920127502
+"sample129","counts.eyeball%2c%20embryo%20E15.CNhs10593.426-16C9","eyeball","embryo E15.CNhs10593.426-16C9","sample129",1.30386974978376
+"sample130","counts.eyeball%2c%20embryo%20E17.CNhs11023.1261-18D4","eyeball","embryo E17.CNhs11023.1261-18D4","sample130",1.5940184088124
+"sample131","counts.eyeball%2c%20neonate%20N00.CNhs11207.633-15C6","eyeball","neonate N00.CNhs11207.633-15C6","sample131",3.70124802866704
+"sample132","counts.eyeball%2c%20neonate%20N01.CNhs11140.1532-43E7","eyeball","neonate N01.CNhs11140.1532-43E7","sample132",1.94773806610881
+"sample133","counts.eyeball%2c%20neonate%20N02.CNhs11205.1551-44G8","eyeball","neonate N02.CNhs11205.1551-44G8","sample133",2.6612049032882
+"sample134","counts.eyeball%2c%20neonate%20N16.CNhs11188.777-19A2","eyeball","neonate N16.CNhs11188.777-19A2","sample134",0.991984224929753
+"sample135","counts.forelimb%2c%20embryo%20E11.CNhs10596.335-25E2","forelimb","embryo E11.CNhs10596.335-25E2","sample135",1.03283777917578
+"sample136","counts.forelimb%2c%20embryo%20E12.CNhs10600.359-14H2","forelimb","embryo E12.CNhs10600.359-14H2","sample136",1.2612383530426
+"sample137","counts.forelimb%2c%20embryo%20E13.CNhs10589.384-1E2","forelimb","embryo E13.CNhs10589.384-1E2","sample137",1.35636058261861
+"sample138","counts.forelimb%2c%20embryo%20E14.CNhs10577.413-26A8","forelimb","embryo E14.CNhs10577.413-26A8","sample138",1.05850798025242
+"sample139","counts.forelimb%2c%20embryo%20E15.CNhs11007.437-20E7","forelimb","embryo E15.CNhs11007.437-20E7","sample139",0.853264672056837
+"sample140","counts.forelimb%2c%20embryo%20E17.CNhs10598.1517-43C4","forelimb","embryo E17.CNhs10598.1517-43C4","sample140",0.699170709940243
+"sample141","counts.forelimb%2c%20embryo%20E18.CNhs11008.1520-43B5","forelimb","embryo E18.CNhs11008.1520-43B5","sample141",1.17434968391914
+"sample142","counts.gonad%2c%20embryo%20E13.CNhs11044.1564-45I6","gonad","embryo E13.CNhs11044.1564-45I6","sample142",1.18204095774367
+"sample143","counts.granulocyte%20macrophage%20progenitor%20GMP%2c%20biol_rep1.CNhs12206.12123-128C8","granulocyte macrophage progenitor GMP","biol_rep1.CNhs12206.12123-128C8","sample143",0.300668454806232
+"sample144","counts.granulocyte%20macrophage%20progenitor%20GMP%2c%20biol_rep2.CNhs12202.12126-128D2","granulocyte macrophage progenitor GMP","biol_rep2.CNhs12202.12126-128D2","sample144",0.83325500851479
+"sample145","counts.granulocyte%20macrophage%20progenitor%20GMP%2c%20biol_rep3.CNhs11928.12129-128D5","granulocyte macrophage progenitor GMP","biol_rep3.CNhs11928.12129-128D5","sample145",0.775098216942662
+"sample146","counts.heart%2c%20embryo%20E11.CNhs10586.331-24E9","heart","embryo E11.CNhs10586.331-24E9","sample146",1.11431084273224
+"sample147","counts.heart%2c%20embryo%20E12.CNhs11015.353-12F5","heart","embryo E12.CNhs11015.353-12F5","sample147",0.971962597693152
+"sample148","counts.heart%2c%20embryo%20E13.CNhs11013.376-3I9","heart","embryo E13.CNhs11013.376-3I9","sample148",1.27591152494108
+"sample149","counts.heart%2c%20embryo%20E14.CNhs10597.403-26D4","heart","embryo E14.CNhs10597.403-26D4","sample149",0.988452700525651
+"sample150","counts.heart%2c%20embryo%20E15.CNhs11017.431-16C8","heart","embryo E15.CNhs11017.431-16C8","sample150",1.19079393247642
+"sample151","counts.heart%2c%20embryo%20E16.CNhs11021.457-17C6","heart","embryo E16.CNhs11021.457-17C6","sample151",1.51576693500109
+"sample152","counts.heart%2c%20embryo%20E17.CNhs11025.479-18E5","heart","embryo E17.CNhs11025.479-18E5","sample152",1.00333939034161
+"sample153","counts.heart%2c%20embryo%20E18.CNhs11030.1283-20G3","heart","embryo E18.CNhs11030.1283-20G3","sample153",0.87987350189686
+"sample154","counts.heart%2c%20neonate%20N00.CNhs11213.639-21E3","heart","neonate N00.CNhs11213.639-21E3","sample154",2.09319791106092
+"sample155","counts.heart%2c%20neonate%20N03.CNhs11221.1349-25I2","heart","neonate N03.CNhs11221.1349-25I2","sample155",1.44545794392162
+"sample156","counts.heart%2c%20neonate%20N10.CNhs11118.749-24G1","heart","neonate N10.CNhs11118.749-24G1","sample156",1.46765642928132
+"sample157","counts.heart%2c%20neonate%20N16.CNhs11209.782-15G1","heart","neonate N16.CNhs11209.782-15G1","sample157",3.03791726293424
+"sample158","counts.heart%2c%20neonate%20N20.CNhs11127.821-26I6","heart","neonate N20.CNhs11127.821-26I6","sample158",1.66352751264509
+"sample159","counts.heart%2c%20neonate%20N25.CNhs11196.1351-25D3","heart","neonate N25.CNhs11196.1351-25D3","sample159",1.08739325952736
+"sample160","counts.heart%2c%20neonate%20N30.CNhs11202.1390-42D2","heart","neonate N30.CNhs11202.1390-42D2","sample160",1.83095866840219
+"sample161","counts.hippocampus%2c%20adult.CNhs10478.13-16E8","hippocampus","adult.CNhs10478.13-16E8","sample161",1.19185201971313
+"sample162","counts.hippocampus%2c%20neonate%20N00.CNhs11228.627-43G1","hippocampus","neonate N00.CNhs11228.627-43G1","sample162",2.40161549162091
+"sample163","counts.intestinal%20mucosa%2c%20adult.CNhs10506.860-29I3","intestinal mucosa","adult.CNhs10506.860-29I3","sample163",0.76902564155017
+"sample164","counts.intestine%2c%20adult.CNhs10496.178-9A3","intestine","adult.CNhs10496.178-9A3","sample164",0.875898354415784
+"sample165","counts.intestine%2c%20embryo%20E12.CNhs11019.1251-16I5","intestine","embryo E12.CNhs11019.1251-16I5","sample165",1.08317170167199
+"sample166","counts.intestine%2c%20embryo%20E13.CNhs11010.381-16D5","intestine","embryo E13.CNhs11010.381-16D5","sample166",1.00422520312847
+"sample167","counts.intestine%2c%20embryo%20E15.CNhs10602.976-16D8","intestine","embryo E15.CNhs10602.976-16D8","sample167",1.81379119046724
+"sample168","counts.intestine%2c%20embryo%20E16.CNhs10585.463-22H4","intestine","embryo E16.CNhs10585.463-22H4","sample168",1.17442036166807
+"sample169","counts.intestine%2c%20embryo%20E17.CNhs10582.482-18D3","intestine","embryo E17.CNhs10582.482-18D3","sample169",1.06085298289369
+"sample170","counts.intestine%2c%20embryo%20E18.CNhs10526.1289-20F7","intestine","embryo E18.CNhs10526.1289-20F7","sample170",1.23644938394953
+"sample171","counts.intestine%2c%20neonate%20N00.CNhs11126.644-26D1","intestine","neonate N00.CNhs11126.644-26D1","sample171",0.508657795219896
+"sample172","counts.intestine%2c%20neonate%20N01.CNhs11192.1322-23E9","intestine","neonate N01.CNhs11192.1322-23E9","sample172",1.43438502581774
+"sample173","counts.intestine%2c%20neonate%20N06.CNhs11102.688-20B8","intestine","neonate N06.CNhs11102.688-20B8","sample173",0.96784987025748
+"sample174","counts.intestine%2c%20neonate%20N07.CNhs11095.720-20F2","intestine","neonate N07.CNhs11095.720-20F2","sample174",1.22979943345289
+"sample175","counts.intestine%2c%20neonate%20N10.CNhs11098.755-23A5","intestine","neonate N10.CNhs11098.755-23A5","sample175",1.26538120199581
+"sample176","counts.intestine%2c%20neonate%20N20.CNhs11187.827-18D1","intestine","neonate N20.CNhs11187.827-18D1","sample176",0.272148199346993
+"sample177","counts.intestine%2c%20neonate%20N25.CNhs11121.1352-25E3","intestine","neonate N25.CNhs11121.1352-25E3","sample177",1.12052090837982
+"sample178","counts.intestine%2c%20neonate%20N30.CNhs11131.1384-42G1","intestine","neonate N30.CNhs11131.1384-42G1","sample178",1.24182358140658
+"sample179","counts.kidney%2c%20embryo%20E14.CNhs10606.411-4I9","kidney","embryo E14.CNhs10606.411-4I9","sample179",1.15035319420736
+"sample180","counts.kidney%2c%20embryo%20E15.CNhs10997.434-16F8","kidney","embryo E15.CNhs10997.434-16F8","sample180",2.0376903740246
+"sample181","counts.kidney%2c%20embryo%20E16.CNhs10584.464-22A5","kidney","embryo E16.CNhs10584.464-22A5","sample181",0.210656578624392
+"sample182","counts.kidney%2c%20embryo%20E17.CNhs11028.483-18I2","kidney","embryo E17.CNhs11028.483-18I2","sample182",1.15602134881879
+"sample183","counts.kidney%2c%20embryo%20E18.CNhs11001.1288-20C7","kidney","embryo E18.CNhs11001.1288-20C7","sample183",1.22858561714585
+"sample184","counts.kidney%2c%20neonate%20N00.CNhs11214.646-21G7","kidney","neonate N00.CNhs11214.646-21G7","sample184",3.52694236177312
+"sample185","counts.kidney%2c%20neonate%20N10.CNhs11206.758-6D5","kidney","neonate N10.CNhs11206.758-6D5","sample185",3.97452317345766
+"sample186","counts.kidney%2c%20neonate%20N20.CNhs11113.832-19I1","kidney","neonate N20.CNhs11113.832-19I1","sample186",1.67935217606321
+"sample187","counts.kidney%2c%20neonate%20N25.CNhs11122.1353-25F3","kidney","neonate N25.CNhs11122.1353-25F3","sample187",1.57169741453968
+"sample188","counts.kidney%2c%20neonate%20N30.CNhs11203.1385-42H1","kidney","neonate N30.CNhs11203.1385-42H1","sample188",1.9923771623655
+"sample189","counts.liver%2c%20adult%20pregnant%20day01.CNhs10466.508-5B2","liver","adult pregnant day01.CNhs10466.508-5B2","sample189",0.80797745033635
+"sample190","counts.liver%2c%20embryo%20E12.CNhs10601.355-15F8","liver","embryo E12.CNhs10601.355-15F8","sample190",1.28715855679137
+"sample191","counts.liver%2c%20embryo%20E13.CNhs10524.378-3H6","liver","embryo E13.CNhs10524.378-3H6","sample191",1.10851435815688
+"sample192","counts.liver%2c%20embryo%20E14.CNhs10594.409-16E1","liver","embryo E14.CNhs10594.409-16E1","sample192",0.953915784791861
+"sample193","counts.liver%2c%20embryo%20E15.CNhs10520.433-16D7","liver","embryo E15.CNhs10520.433-16D7","sample193",1.08628831949263
+"sample194","counts.liver%2c%20embryo%20E16.CNhs10523.462-17F5","liver","embryo E16.CNhs10523.462-17F5","sample194",0.926451673927218
+"sample195","counts.liver%2c%20embryo%20E17.CNhs10510.481-18A3","liver","embryo E17.CNhs10510.481-18A3","sample195",0.865186482317952
+"sample196","counts.liver%2c%20embryo%20E18.CNhs10579.499-43G4","liver","embryo E18.CNhs10579.499-43G4","sample196",0.794208501466724
+"sample197","counts.liver%2c%20neonate%20N00.CNhs11117.641-24F4","liver","neonate N00.CNhs11117.641-24F4","sample197",1.4313029042976
+"sample198","counts.liver%2c%20neonate%20N03.CNhs11123.1345-25G2","liver","neonate N03.CNhs11123.1345-25G2","sample198",0.817527050195415
+"sample199","counts.liver%2c%20neonate%20N06.CNhs11101.684-20A8","liver","neonate N06.CNhs11101.684-20A8","sample199",0.17713935000662
+"sample200","counts.liver%2c%20neonate%20N07.CNhs11103.716-20H2","liver","neonate N07.CNhs11103.716-20H2","sample200",0.644798287666987
+"sample201","counts.liver%2c%20neonate%20N10.CNhs11115.751-24B9","liver","neonate N10.CNhs11115.751-24B9","sample201",0.759777151829868
+"sample202","counts.liver%2c%20neonate%20N20.CNhs11220.823-25A3","liver","neonate N20.CNhs11220.823-25A3","sample202",0.93748474252559
+"sample203","counts.liver%2c%20neonate%20N25.CNhs11198.1368-26H1","liver","neonate N25.CNhs11198.1368-26H1","sample203",1.30243997110262
+"sample204","counts.liver%2c%20neonate%20N30.CNhs11106.1382-42D1","liver","neonate N30.CNhs11106.1382-42D1","sample204",0.510431973094359
+"sample205","counts.lung%2c%20adult.CNhs10474.28-22B1","lung","adult.CNhs10474.28-22B1","sample205",1.38945893670875
+"sample206","counts.lung%2c%20embryo%20E12.CNhs10522.354-16G2","lung","embryo E12.CNhs10522.354-16G2","sample206",1.20937455476293
+"sample207","counts.lung%2c%20embryo%20E14.CNhs10604.404-26F8","lung","embryo E14.CNhs10604.404-26F8","sample207",1.42679373373698
+"sample208","counts.lung%2c%20embryo%20E15.CNhs11020.432-17C5","lung","embryo E15.CNhs11020.432-17C5","sample208",1.35329872305719
+"sample209","counts.lung%2c%20embryo%20E16.CNhs10998.458-17B6","lung","embryo E16.CNhs10998.458-17B6","sample209",0.997597784803695
+"sample210","counts.lung%2c%20embryo%20E17.CNhs10605.480-44A6","lung","embryo E17.CNhs10605.480-44A6","sample210",1.47210999709325
+"sample211","counts.lung%2c%20embryo%20E18.CNhs10583.1287-20I6","lung","embryo E18.CNhs10583.1287-20I6","sample211",1.04810429556453
+"sample212","counts.lung%2c%20neonate%20N00.CNhs11224.640-42C6","lung","neonate N00.CNhs11224.640-42C6","sample212",1.34404046614175
+"sample213","counts.lung%2c%20neonate%20N06.CNhs11212.683-20E5","lung","neonate N06.CNhs11212.683-20E5","sample213",1.62165712971278
+"sample214","counts.lung%2c%20neonate%20N07.CNhs11111.715-19A3","lung","neonate N07.CNhs11111.715-19A3","sample214",1.14965455276454
+"sample215","counts.lung%2c%20neonate%20N10.CNhs11219.750-23E6","lung","neonate N10.CNhs11219.750-23E6","sample215",1.64147800516719
+"sample216","counts.lung%2c%20neonate%20N20.CNhs11109.822-18A4","lung","neonate N20.CNhs11109.822-18A4","sample216",1.54323971215253
+"sample217","counts.lung%2c%20neonate%20N25.CNhs11119.1359-25C7","lung","neonate N25.CNhs11119.1359-25C7","sample217",1.48739326812321
+"sample218","counts.lung%2c%20neonate%20N30.CNhs11133.1394-42H2","lung","neonate N30.CNhs11133.1394-42H2","sample218",1.79211526679256
+"sample219","counts.macrophage%2c%20bone%20marrow%20derived%2c%20pool1.CNhs11457.3560-170A1","macrophage","pool1.CNhs11457.3560-170A1","sample219",0.158218173230784
+"sample220","counts.macrophage%2c%20bone%20marrow%20derived%2c%20pool2.CNhs11532.3632-171A1","macrophage","pool2.CNhs11532.3632-171A1","sample220",0.424303313352247
+"sample221","counts.mammary%20gland%2c%20adult%20lactating%20day02.CNhs10480.595-22B6","mammary gland","adult lactating day02.CNhs10480.595-22B6","sample221",0.476501771255021
+"sample222","counts.mammary%20gland%2c%20adult%20pregnant%20day19.CNhs10476.588-5H2","mammary gland","adult pregnant day19.CNhs10476.588-5H2","sample222",0.863220937838587
+"sample223","counts.medulla%20oblongata%2c%20adult.CNhs10477.17-12C2","medulla oblongata","adult.CNhs10477.17-12C2","sample223",1.55810827188942
+"sample224","counts.medulla%20oblongata%2c%20neonate%20N30.CNhs11200.1396-42A3","medulla oblongata","neonate N30.CNhs11200.1396-42A3","sample224",2.15059455478641
+"sample225","counts.muscle%20%28biceps%20femoris%29%2c%20neonate%20N30.CNhs11129.1389-42C2","muscle (biceps femoris)","neonate N30.CNhs11129.1389-42C2","sample225",0.947142871288295
+"sample226","counts.neurospheres%20-%20enteric%20neuron%20derived%2c%20biol_rep1.CNhs13087.11810-124E1","neurospheres - enteric neuron derived","biol_rep1.CNhs13087.11810-124E1","sample226",0.721670868246056
+"sample227","counts.neurospheres%20-%20enteric%20neuron%20derived%2c%20biol_rep2.CNhs13088.11811-124E2","neurospheres - enteric neuron derived","biol_rep2.CNhs13088.11811-124E2","sample227",0.582656507455303
+"sample228","counts.neurospheres%20-%20enteric%20neuron%20derived%2c%20biol_rep3.CNhs13089.11812-124E3","neurospheres - enteric neuron derived","biol_rep3.CNhs13089.11812-124E3","sample228",1.08868601863077
+"sample229","counts.neurospheres%20-%20parasympathetic%20neuron%20derived%2c%20biol_rep1.CNhs13084.11807-124D7","neurospheres - parasympathetic neuron derived","biol_rep1.CNhs13084.11807-124D7","sample229",0.973778115011535
+"sample230","counts.neurospheres%20-%20parasympathetic%20neuron%20derived%2c%20biol_rep2.CNhs13085.11808-124D8","neurospheres - parasympathetic neuron derived","biol_rep2.CNhs13085.11808-124D8","sample230",1.05668641829138
+"sample231","counts.neurospheres%20-%20parasympathetic%20neuron%20derived%2c%20biol_rep3.CNhs13086.11809-124D9","neurospheres - parasympathetic neuron derived","biol_rep3.CNhs13086.11809-124D9","sample231",0.841651243654765
+"sample232","counts.neurospheres%20-%20sympathetic%20neuron%20derived%2c%20biol_rep1.CNhs13081.11804-124D4","neurospheres - sympathetic neuron derived","biol_rep1.CNhs13081.11804-124D4","sample232",0.580670596268848
+"sample233","counts.neurospheres%20-%20sympathetic%20neuron%20derived%2c%20biol_rep2.CNhs13082.11805-124D5","neurospheres - sympathetic neuron derived","biol_rep2.CNhs13082.11805-124D5","sample233",0.805687232725102
+"sample234","counts.neurospheres%20-%20sympathetic%20neuron%20derived%2c%20biol_rep3.CNhs13083.11806-124D6","neurospheres - sympathetic neuron derived","biol_rep3.CNhs13083.11806-124D6","sample234",0.599519485882431
+"sample235","counts.olfactory%20brain%2c%20adult.CNhs10489.18-22I9","olfactory brain","adult.CNhs10489.18-22I9","sample235",0.79437379060706
+"sample236","counts.ovary%2c%20adult.CNhs10507.91-2I7","ovary","adult.CNhs10507.91-2I7","sample236",1.75485843045658
+"sample237","counts.ovary%2c%20embryo%20E18.CNhs11040.505-44H7","ovary","embryo E18.CNhs11040.505-44H7","sample237",1.30243806402691
+"sample238","counts.ovary%2c%20neonate%20N00.CNhs11217.1299-22I4","ovary","neonate N00.CNhs11217.1299-22I4","sample238",1.52317469068629
+"sample239","counts.oviduct%2c%20adult%20pregnant%20day01.CNhs10500.988-6G6","oviduct","adult pregnant day01.CNhs10500.988-6G6","sample239",1.54414351916304
+"sample240","counts.pancreas%2c%20adult.CNhs10486.34-16E4","pancreas","adult.CNhs10486.34-16E4","sample240",0.177747511825563
+"sample241","counts.pancreas%2c%20embryo%20E14.CNhs11012.405-44F4","pancreas","embryo E14.CNhs11012.405-44F4","sample241",0.909044099808913
+"sample242","counts.pancreas%2c%20embryo%20E15.CNhs11042.1556-45F2","pancreas","embryo E15.CNhs11042.1556-45F2","sample242",0.733017981052017
+"sample243","counts.pancreas%2c%20embryo%20E16.CNhs11003.460-26E5","pancreas","embryo E16.CNhs11003.460-26E5","sample243",1.20153973022693
+"sample244","counts.pancreas%2c%20embryo%20E17.CNhs10599.1558-45G3","pancreas","embryo E17.CNhs10599.1558-45G3","sample244",0.747116698514834
+"sample245","counts.pancreas%2c%20embryo%20E18.CNhs10580.1535-43I7","pancreas","embryo E18.CNhs10580.1535-43I7","sample245",0.769181727796311
+"sample246","counts.pancreas%2c%20neonate%20N00.CNhs11105.645-26G9","pancreas","neonate N00.CNhs11105.645-26G9","sample246",0.959057614197111
+"sample247","counts.pancreas%2c%20neonate%20N01.CNhs11138.1531-43D7","pancreas","neonate N01.CNhs11138.1531-43D7","sample247",0.66136362030671
+"sample248","counts.pancreas%2c%20neonate%20N02.CNhs11139.1539-43D8","pancreas","neonate N02.CNhs11139.1539-43D8","sample248",0.66688515076851
+"sample249","counts.pancreas%2c%20neonate%20N16.CNhs11136.787-43B6","pancreas","neonate N16.CNhs11136.787-43B6","sample249",0.75912424048517
+"sample250","counts.pancreas%2c%20neonate%20N25.CNhs11094.1555-45E2","pancreas","neonate N25.CNhs11094.1555-45E2","sample250",0.222645087574668
+"sample251","counts.pancreas%2c%20neonate%20N30.CNhs11182.1548-44H5","pancreas","neonate N30.CNhs11182.1548-44H5","sample251",0.231939658899545
+"sample252","counts.pituitary%20gland%2c%20adult.CNhs10493.21-1G8","pituitary gland","adult.CNhs10493.21-1G8","sample252",0.753623438787696
+"sample253","counts.pituitary%20gland%2c%20embryo%20E12.CNhs11018.346-16E6","pituitary gland","embryo E12.CNhs11018.346-16E6","sample253",1.31163311519748
+"sample254","counts.pituitary%20gland%2c%20embryo%20E13.CNhs11009.370-44C7","pituitary gland","embryo E13.CNhs11009.370-44C7","sample254",1.72212972136745
+"sample255","counts.pituitary%20gland%2c%20embryo%20E14.CNhs11037.398-44A5","pituitary gland","embryo E14.CNhs11037.398-44A5","sample255",1.09972612049229
+"sample256","counts.pituitary%20gland%2c%20embryo%20E15.CNhs10592.427-16B9","pituitary gland","embryo E15.CNhs10592.427-16B9","sample256",1.37995389983166
+"sample257","counts.pituitary%20gland%2c%20embryo%20E16.CNhs11036.449-43F6","pituitary gland","embryo E16.CNhs11036.449-43F6","sample257",1.35793689331056
+"sample258","counts.pituitary%20gland%2c%20embryo%20E17.CNhs11039.1265-44F5","pituitary gland","embryo E17.CNhs11039.1265-44F5","sample258",1.48248468817462
+"sample259","counts.pituitary%20gland%2c%20neonate%20N00.CNhs11190.1308-22E9","pituitary gland","neonate N00.CNhs11190.1308-22E9","sample259",0.759931755368148
+"sample260","counts.placenta%2c%20adult%20pregnant%20day10.CNhs10472.539-13I7","placenta","adult pregnant day10.CNhs10472.539-13I7","sample260",1.02032943311013
+"sample261","counts.placenta%2c%20adult%20pregnant%20day17.CNhs10464.577-18G3","placenta","adult pregnant day17.CNhs10464.577-18G3","sample261",1.19160141992386
+"sample262","counts.prostate%2c%20adult.CNhs10470.859-1F8","prostate","adult.CNhs10470.859-1F8","sample262",1.07320770472677
+"sample263","counts.skin%2c%20adult.CNhs10492.30-1C3","skin","adult.CNhs10492.30-1C3","sample263",1.52762870294494
+"sample264","counts.skin%2c%20neonate%20N00.CNhs11124.650-25G4","skin","neonate N00.CNhs11124.650-25G4","sample264",1.56414460973203
+"sample265","counts.skin%2c%20neonate%20N03.CNhs11215.662-22H3","skin","neonate N03.CNhs11215.662-22H3","sample265",4.11398103862618
+"sample266","counts.skin%2c%20neonate%20N06.CNhs11097.693-20I5","skin","neonate N06.CNhs11097.693-20I5","sample266",2.0210243643441
+"sample267","counts.skin%2c%20neonate%20N10.CNhs11108.762-6C4","skin","neonate N10.CNhs11108.762-6C4","sample267",1.47921462159131
+"sample268","counts.small%20intestine%2c%20neonate%20N16.CNhs11114.790-21I1","small intestine","neonate N16.CNhs11114.790-21I1","sample268",0.84636297784952
+"sample269","counts.spinal%20cord%2c%20adult.CNhs10505.24-13C9","spinal cord","adult.CNhs10505.24-13C9","sample269",1.35877438170168
+"sample270","counts.spleen%2c%20adult.CNhs10465.25-2G2","spleen","adult.CNhs10465.25-2G2","sample270",1.33255766826133
+"sample271","counts.spleen%2c%20embryo%20E16.CNhs11035.461-43C1","spleen","embryo E16.CNhs11035.461-43C1","sample271",1.12972622195751
+"sample272","counts.spleen%2c%20embryo%20E18.CNhs11011.1271-21F2","spleen","embryo E18.CNhs11011.1271-21F2","sample272",1.24218836838035
+"sample273","counts.spleen%2c%20neonate%20N10.CNhs11116.752-24D1","spleen","neonate N10.CNhs11116.752-24D1","sample273",1.18206759338806
+"sample274","counts.spleen%2c%20neonate%20N20.CNhs11112.824-19H1","spleen","neonate N20.CNhs11112.824-19H1","sample274",1.66543989801719
+"sample275","counts.spleen%2c%20neonate%20N25.CNhs11099.1354-25G3","spleen","neonate N25.CNhs11099.1354-25G3","sample275",0.991990947722837
+"sample276","counts.stem%20cell%20%28cKit%2b%20Sca1-%20lineage-%29%20KSL%2c%20biol_rep1.CNhs12534.12121-128C6","stem cell (cKit+ Sca1- lineage-) KSL","biol_rep1.CNhs12534.12121-128C6","sample276",1.38718408683309
+"sample277","counts.stem%20cell%20%28cKit%2b%20Sca1-%20lineage-%29%20KSL%2c%20biol_rep2.CNhs12535.12124-128C9","stem cell (cKit+ Sca1- lineage-) KSL","biol_rep2.CNhs12535.12124-128C9","sample277",1.70288334186781
+"sample278","counts.stem%20cell%20%28cKit%2b%20Sca1-%20lineage-%29%20KSL%2c%20biol_rep3.CNhs12536.12127-128D3","stem cell (cKit+ Sca1- lineage-) KSL","biol_rep3.CNhs12536.12127-128D3","sample278",1.72728018288345
+"sample279","counts.stomach%2c%20adult.CNhs10503.33-1H6","stomach","adult.CNhs10503.33-1H6","sample279",0.243626057845423
+"sample280","counts.stomach%2c%20embryo%20E12.CNhs10588.356-43E3","stomach","embryo E12.CNhs10588.356-43E3","sample280",1.45156355995244
+"sample281","counts.stomach%2c%20embryo%20E15.CNhs10603.1252-16G8","stomach","embryo E15.CNhs10603.1252-16G8","sample281",1.170207517881
+"sample282","counts.stomach%2c%20embryo%20E16.CNhs11022.459-17D4","stomach","embryo E16.CNhs11022.459-17D4","sample282",2.17551887364496
+"sample283","counts.stomach%2c%20embryo%20E17.CNhs11006.1035-18D5","stomach","embryo E17.CNhs11006.1035-18D5","sample283",1.1248935707495
+"sample284","counts.stomach%2c%20embryo%20E18.CNhs10999.1286-20C6","stomach","embryo E18.CNhs10999.1286-20C6","sample284",1.0769463499335
+"sample285","counts.stomach%2c%20neonate%20N03.CNhs11193.1340-24B8","stomach","neonate N03.CNhs11193.1340-24B8","sample285",1.7817308320328
+"sample286","counts.stomach%2c%20neonate%20N07.CNhs11210.718-18A9","stomach","neonate N07.CNhs11210.718-18A9","sample286",2.98162504121823
+"sample287","counts.stomach%2c%20neonate%20N25.CNhs11104.1355-25E4","stomach","neonate N25.CNhs11104.1355-25E4","sample287",0.914737235728799
+"sample288","counts.stomach%2c%20neonate%20N30.CNhs11134.1386-42I1","stomach","neonate N30.CNhs11134.1386-42I1","sample288",1.884181247944
+"sample289","counts.submandibular%20gland%2c%20adult.CNhs10469.59-29C1","submandibular gland","adult.CNhs10469.59-29C1","sample289",0.392700750911691
+"sample290","counts.testis%2c%20adult.CNhs10504.57-7G5","testis","adult.CNhs10504.57-7G5","sample290",0.488507482373683
+"sample291","counts.testis%2c%20embryo%20E13.CNhs11031.389-23F5","testis","embryo E13.CNhs11031.389-23F5","sample291",1.59495620431087
+"sample292","counts.testis%2c%20embryo%20E15.CNhs11034.443-27C5","testis","embryo E15.CNhs11034.443-27C5","sample292",1.39311796038687
+"sample293","counts.testis%2c%20embryo%20E16.CNhs11033.470-26G5","testis","embryo E16.CNhs11033.470-26G5","sample293",1.24421628010152
+"sample294","counts.testis%2c%20embryo%20E17.CNhs11029.486-18I5","testis","embryo E17.CNhs11029.486-18I5","sample294",1.82338159617237
+"sample295","counts.testis%2c%20embryo%20E18.CNhs11027.503-18G5","testis","embryo E18.CNhs11027.503-18G5","sample295",1.42379115933838
+"sample296","counts.testis%2c%20neonate%20N00.CNhs11189.1300-22B7","testis","neonate N00.CNhs11189.1300-22B7","sample296",2.09745819152326
+"sample297","counts.testis%2c%20neonate%20N07.CNhs11222.726-26I4","testis","neonate N07.CNhs11222.726-26I4","sample297",1.90798896501059
+"sample298","counts.testis%2c%20neonate%20N10.CNhs11204.763-44D9","testis","neonate N10.CNhs11204.763-44D9","sample298",2.39328763787242
+"sample299","counts.testis%2c%20neonate%20N20.CNhs11110.839-18H3","testis","neonate N20.CNhs11110.839-18H3","sample299",1.06524332090876
+"sample300","counts.testis%2c%20neonate%20N30.CNhs11130.1391-42E2","testis","neonate N30.CNhs11130.1391-42E2","sample300",0.951705769400216
+"sample301","counts.thymus%2c%20adult.CNhs10471.38-12B5","thymus","adult.CNhs10471.38-12B5","sample301",0.763307474681299
+"sample302","counts.thymus%2c%20embryo%20E14.CNhs11041.402-44I4","thymus","embryo E14.CNhs11041.402-44I4","sample302",1.09358496430326
+"sample303","counts.thymus%2c%20embryo%20E15.CNhs11005.430-45I2","thymus","embryo E15.CNhs11005.430-45I2","sample303",2.1794129567401
+"sample304","counts.thymus%2c%20embryo%20E16.CNhs11002.456-26C5","thymus","embryo E16.CNhs11002.456-26C5","sample304",1.73687475168305
+"sample305","counts.thymus%2c%20embryo%20E17.CNhs10581.478-18C1","thymus","embryo E17.CNhs10581.478-18C1","sample305",1.29116726760857
+"sample306","counts.thymus%2c%20embryo%20E18.CNhs10595.1273-19G4","thymus","embryo E18.CNhs10595.1273-19G4","sample306",1.19086057854499
+"sample307","counts.thymus%2c%20neonate%20N02.CNhs11181.1541-43F8","thymus","neonate N02.CNhs11181.1541-43F8","sample307",1.96999811631126
+"sample308","counts.thymus%2c%20neonate%20N03.CNhs11137.2104-43C7","thymus","neonate N03.CNhs11137.2104-43C7","sample308",1.59116704756397
+"sample309","counts.thymus%2c%20neonate%20N06.CNhs11197.681-26C4","thymus","neonate N06.CNhs11197.681-26C4","sample309",2.3665963582763
+"sample310","counts.thymus%2c%20neonate%20N07.CNhs11211.713-19D3","thymus","neonate N07.CNhs11211.713-19D3","sample310",3.14181355658967
+"sample311","counts.thymus%2c%20neonate%20N10.CNhs11194.748-24E4","thymus","neonate N10.CNhs11194.748-24E4","sample311",2.35223388520389
+"sample312","counts.thymus%2c%20neonate%20N20.CNhs11186.820-7A2","thymus","neonate N20.CNhs11186.820-7A2","sample312",2.49405057496204
+"sample313","counts.thymus%2c%20neonate%20N25.CNhs11125.1362-25G7","thymus","neonate N25.CNhs11125.1362-25G7","sample313",2.52805038094103
+"sample314","counts.thymus%2c%20neonate%20N30.CNhs11132.1393-42G2","thymus","neonate N30.CNhs11132.1393-42G2","sample314",2.15291463217651
+"sample315","counts.tongue%2c%20adult.CNhs10499.32-1B4","tongue","adult.CNhs10499.32-1B4","sample315",1.06206823364836
+"sample316","counts.urinary%20bladder%2c%20adult.CNhs10481.879-12E4","urinary bladder","adult.CNhs10481.879-12E4","sample316",1.27775761100177
+"sample317","counts.uterus%2c%20adult%20pregnant%20day19.CNhs10497.590-15F5","uterus","adult pregnant day19.CNhs10497.590-15F5","sample317",1.29610785599633
+"sample318","counts.uterus%2c%20adult.CNhs10509.92-27E5","uterus","adult.CNhs10509.92-27E5","sample318",1.33703571950551
+"sample319","counts.vagina%2c%20adult.CNhs10502.89-27D5","vagina","adult.CNhs10502.89-27D5","sample319",1.11964114285444
+"sample320","counts.vesicular%20gland%2c%20adult.CNhs10491.51-27F8","vesicular gland","adult.CNhs10491.51-27F8","sample320",0.479942509454562
+"sample321","counts.visual%20cortex%20-%20wildtype%2c%20neonate%20N15%2c%20donor1.CNhs13031.10235-104A1","visual cortex - wildtype","donor1.CNhs13031.10235-104A1","sample321",0.437387920661711
+"sample322","counts.visual%20cortex%20-%20wildtype%2c%20neonate%20N15%2c%20donor2.CNhs13032.10236-104A2","visual cortex - wildtype","donor2.CNhs13032.10236-104A2","sample322",0.530447647910467
+"sample323","counts.visual%20cortex%20-%20wildtype%2c%20neonate%20N15%2c%20donor3.CNhs13033.10237-104A3","visual cortex - wildtype","donor3.CNhs13033.10237-104A3","sample323",0.428909764144217
+"sample324","counts.visual%20cortex%20-%20wildtype%2c%20neonate%20N15%2c%20donor5.CNhs13820.10349-105D7","visual cortex - wildtype","donor5.CNhs13820.10349-105D7","sample324",1.42227399138205
+"sample325","counts.visual%20cortex%20-%20wildtype%2c%20neonate%20N30%2c%20donor1.CNhs13034.10238-104A4","visual cortex - wildtype","donor1.CNhs13034.10238-104A4","sample325",0.357555605913938
+"sample326","counts.visual%20cortex%20-%20wildtype%2c%20neonate%20N30%2c%20donor2.CNhs13035.10239-104A5","visual cortex - wildtype","donor2.CNhs13035.10239-104A5","sample326",0.328055476441284
+"sample327","counts.visual%20cortex%20-%20wildtype%2c%20neonate%20N30%2c%20donor3.CNhs13036.10240-104A6","visual cortex - wildtype","donor3.CNhs13036.10240-104A6","sample327",0.362215818007103
+"sample328","counts.visual%20cortex%20-%20wildtype%2c%20neonate%20N60-70%2c%20donor1.CNhs13037.10241-104A7","visual cortex - wildtype","donor1.CNhs13037.10241-104A7","sample328",0.539973521370299
+"sample329","counts.visual%20cortex%20-%20wildtype%2c%20neonate%20N60-70%2c%20donor2.CNhs13038.10242-104A8","visual cortex - wildtype","donor2.CNhs13038.10242-104A8","sample329",0.542697447005397
+"sample330","counts.visual%20cortex%20-%20wildtype%2c%20neonate%20N60-70%2c%20donor3.CNhs13039.10243-104A9","visual cortex - wildtype","donor3.CNhs13039.10243-104A9","sample330",0.474119210438421

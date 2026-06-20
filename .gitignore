@@ -1,0 +1,16 @@
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.sra
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.rds
+*.rda
+*.RData
+*.cloupe
+*_count/
+outs/
+10x/
